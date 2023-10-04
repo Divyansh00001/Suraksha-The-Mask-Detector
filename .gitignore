@@ -3,7 +3,7 @@ resources.py
 labelImg.egg-info*
 
 *.pyc
-.*.swp
+.*.swp.
 
 build/
 dist/
