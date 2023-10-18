@@ -21,7 +21,7 @@ qt4py3:
 	pyrcc4 -py3 -o libs/resources.py resources.qrc
 
 qt5py3:
-	pyrcc5 -o libs/resources.py resources.qrc
+	pyrcc5 -o libs/resources.py resources.qr
 
 clean:
 	rm -rf ~/.labelImgSettings.pkl *.pyc dist labelImg.egg-info __pycache__ build
